@@ -36,11 +36,15 @@ Welcome to my GitHub haven, where passion meets code and curiosity fuels learnin
 - Open-source initiatives that make a positive impact
 - Hackathons focused on creating cutting-edge web solutions
 
-## 🌐 My Website
+## 🌐 My Portfolio
 
 <div align="center">
   <a href="https://abijoy.vercel.app" target="_blank">
-    Abi Joy
+    <img src="https://img.shields.io/badge/Abi%20Joy-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Abi Joy's Portfolio">
+  </a>
+  <p>Explore my projects, skills, and journey in web development</p>
+  <a href="https://abijoy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/website?style=flat-square&up_message=online&url=https%3A%2F%2Fabijoy.vercel.app" alt="Website Status">
   </a>
 </div>
 
