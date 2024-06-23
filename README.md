@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Abi Joy!
 
-<div align="center">
-  <img src="https://your-image-url-here.com" alt="Banner Image" width="100%">
-</div>
+
 
 Welcome to my GitHub haven, where passion meets code and curiosity fuels learning! 🚀
 
@@ -41,7 +39,7 @@ Welcome to my GitHub haven, where passion meets code and curiosity fuels learnin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abi-joy&show_icons=true&theme=radical" alt="Abi Joy's GitHub Stats">
+  <img src="https://abijoy.vercel.app" alt="Abi Joy">
 </div>
 
 ## 📫 Let's Connect!
