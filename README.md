@@ -36,10 +36,11 @@ Welcome to my GitHub haven, where passion meets code and curiosity fuels learnin
 - Open-source initiatives that make a positive impact
 - Hackathons focused on creating cutting-edge web solutions
 
-## 📊 GitHub Stats
+## 🌐 My Website
 
 <div align="center">
-  <img src="https://abijoy.vercel.app" alt="Abi Joy">
+  <a href="https://abijoy.vercel.app" target="_blank">
+  </a>
 </div>
 
 ## 📫 Let's Connect!
